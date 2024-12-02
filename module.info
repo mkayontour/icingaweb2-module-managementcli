@@ -1,0 +1,3 @@
+Name: Managment CLI
+Version: 0.0.1
+Description: The missing icingaweb2 managment cli. It will provide cli commands to manage database migrations or user management. Useful for specific automation tasks.
